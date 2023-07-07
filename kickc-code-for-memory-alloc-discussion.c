@@ -1,0 +1,14 @@
+__export __address(0xAD0F) unsigned byte glevbgtiles0[] =  { /*size*/ 1,   /*tiles*/ 116  };
+__export __address(0xAD11) unsigned byte glevbgtiles1[] =  { /*size*/ 1,   /*tiles*/ 115  };
+__export __address(0xAD13) unsigned byte glevbgtiles2[] =  { /*size*/ 1,   /*tiles*/ 32  };
+__export __address(0xAD15) unsigned byte glevbgtiles3[] =  { /*size*/ 1,   /*tiles*/ 112  };
+__export __address(0xAD17) unsigned byte glevbgtiles4[] =  { /*size*/ 4,   /*tiles*/ 112,112,71,72,   112,112,71+16,72+16,   71,72,112,112, 71+16,72+16,112,112  };
+__export __address(0xAD28) unsigned byte glevbgtiles5[] =  { /*size*/ 4,   /*tiles*/ 32,32,102,102,   32,32,102,102,   102,102,32,32, 102,102,32,32  };
+__export __address(0xAD39) unsigned byte glevbgtiles6[] =  { /*size*/ 1,   /*tiles*/ 117  };
+__export __address(0xAD3B) unsigned byte glevbgtiles7[] =  { /*size*/ 4,   /*tiles*/ 32,32,73,74,   32,32,73+16,74+16,   73,74,32,32, 73+16,74+16,32,32  };
+__export __address(0xAD4C) unsigned byte glevbgtiles8[] =  { /*size*/ 4,   /*tiles*/ 32,32,73+32,74+32,   32,32,73+32+16,74+32+16,   73+32,74+32,32,32, 73+32+16,74+32+16,32,32 };
+__export __address(0xAD5D) unsigned byte glevbgtiles9[] =  { /*size*/ 1,   /*tiles*/ 118  };
+__export __address(0xAD5F) unsigned byte glevbgtiles10[] =  { /*size*/ 4,   /*tiles*/ 32,32,71+32,72+32,   32,32,71+32+16,72+32+16,   71+32,72+32,32,32, 71+32+16,72+32+16,32,32 };
+__export __address(0xAD70) unsigned byte glevbgtiles11[] =  { /*size*/ 4,   /*tiles*/ 102,102,102,102,   102,102,71+32,72+32,   102,102,71+32+16,72+32+16,  102,102,102,102   };
+__export __address(0xAD81) unsigned byte glevbgtiles12[] =  { /*size*/ 2,   /*tiles*/ 103,112,112,112  };
+__export __address(0xAD86) unsigned byte glevbgtiles13[] =  { /*size*/ 2,   /*tiles*/ 103,103,112,112 };
